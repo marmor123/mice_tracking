@@ -146,28 +146,5 @@ The CSV files used in this project have the following columns:
 - **CSV processing errors**: Verify that your input CSV files match the expected format described in the [Data Format](#data-format) section.
 - **Blender add-on not working**: Make sure you've enabled the add-on in Blender preferences and that it's compatible with your Blender version.
 
-If you encounter persistent issues, please check the [Issues](https://github.com/your-username/mouse-tracking-project/issues) section of the repository or open a new issue with a detailed description of the problem.
-
-## Contributing
-
-Contributions to this project are welcome! Here's how you can contribute:
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/AmazingFeature`)
-3. Make your changes
-4. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-5. Push to the branch (`git push origin feature/AmazingFeature`)
-6. Open a Pull Request
-
-Please ensure your code adheres to the project's coding standards and include tests for new features.
-
-## Contact
-
-Your Name - [your.email@example.com](mailto:your.email@example.com)
-
-Project Link: [https://github.com/your-username/mouse-tracking-project](https://github.com/your-username/mouse-tracking-project)
-
----
-
-We hope this project helps streamline your mouse tracking research! If you use this tool in your work, please consider citing it.
+If you encounter persistent issues, please check the [Issues](https://github.com/marmor123/mice_tracking/issues) section of the repository or open a new issue with a detailed description of the problem.
 
